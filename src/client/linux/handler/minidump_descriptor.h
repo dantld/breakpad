@@ -29,6 +29,7 @@
 #ifndef CLIENT_LINUX_HANDLER_MINIDUMP_DESCRIPTOR_H_
 #define CLIENT_LINUX_HANDLER_MINIDUMP_DESCRIPTOR_H_
 
+#include <stdint.h>
 #include <assert.h>
 #include <sys/types.h>
 
